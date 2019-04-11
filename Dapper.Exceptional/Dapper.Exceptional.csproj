@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/dahlsailrunner/tccc2019-dapper-exceptional</PackageProjectUrl>
+    <Copyright></Copyright>
+    <Authors>Erik Dahl</Authors>
+    <Company>KnowYourToolset</Company>
+    <RepositoryUrl>https://github.com/dahlsailrunner/tccc2019-dapper-exceptional</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>dapper ado.net exception-handling</PackageTags>
+    <PackageIconUrl>http://knowyourtoolset.com/wp-content/uploads/2015/03/cropped-favicon-96x96.png</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.6" />
+  </ItemGroup>
+
+</Project>
