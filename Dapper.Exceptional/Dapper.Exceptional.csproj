@@ -10,6 +10,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>dapper ado.net exception-handling</PackageTags>
     <PackageIconUrl>http://knowyourtoolset.com/wp-content/uploads/2015/03/cropped-favicon-96x96.png</PackageIconUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
